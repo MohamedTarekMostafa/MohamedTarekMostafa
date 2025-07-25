@@ -1,6 +1,6 @@
 ### Hi there 👋, I am [Mohamed Tarek Mostafa](https://github.com/MohamedTarekMostafa) 😄
 
-Hello! I'm **Mohamed Tarek**, a Computer Engineering graduate from **Shorouk Academy**  
+ I'm **Mohamed Tarek**, a Computer Engineering graduate from **El Shorouk Academy**  
 with 2+ years of self-learning and project experience in **Artificial Intelligence** and **Data Science**.  
 I'm passionate about building smart AI-powered solutions and extracting insights from data.
 
@@ -16,6 +16,8 @@ I'm passionate about building smart AI-powered solutions and extracting insights
 
 ### 📫 Connect With Me:
 - ✉️ Email: mohamedelgebaly921@gmail.com  
+- 💼 LinkedIn: [Mohamed Tarek Mostafa](https://www.linkedin.com/in/mohamed-tarek-mostafa-936452221/)  
+- 📊 Kaggle: [@moohamedelgebaly](https://www.kaggle.com/moohamedelgebaly)  
 - 💬 Topics I enjoy: Machine Learning, Deep Learning, Data Analysis, Model Deployment  
 - 😄 Pronouns: He / Him
 
