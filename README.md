@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Mohamed Tarek Mostafa](https://github.com/MohamedTarekMostafa) 😄
+### Hi there 👋
 
  I'm **Mohamed Tarek**, a Computer Engineering graduate from **El Shorouk Academy**  
 with 2+ years of self-learning and project experience in **Artificial Intelligence** and **Data Science**.  
