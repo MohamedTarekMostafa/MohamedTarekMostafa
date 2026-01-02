@@ -57,4 +57,25 @@ to **LLM-powered applications** such as RAG systems and AI agents.
 ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&style=social)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=social)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?logo=matplotlib&style=social)
-![Seaborn](https://img.shields.io/badge/-)
+![Seaborn](https://img.shields.io/badge/-Seaborn-black?logo=seaborn&style=social)
+![Plotly](https://img.shields.io/badge/-Plotly-black?logo=plotly&style=social)
+
+### 🤖 Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?logo=scikit-learn&style=social)
+![XGBoost](https://img.shields.io/badge/-XGBoost-black?logo=xgboost&style=social)
+![LightGBM](https://img.shields.io/badge/-LightGBM-black?logo=lightgbm&style=social)
+
+### 🧠 Deep Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=social)
+![Keras](https://img.shields.io/badge/-Keras-black?logo=keras&style=social)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch&style=social)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?logo=opencv&style=social)
+![Transformers](https://img.shields.io/badge/-Transformers-black?logo=huggingface&style=social)
+
+### 🧰 Tools & AI Engineering
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=social)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)
+![VS Code](https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&style=social)
