@@ -8,17 +8,17 @@ to **LLM-powered applications** such as RAG systems and AI agents.
 
 ---
 
-## 🧠 AI Engineer / LLM Engineer Profile
+## AI Engineer / LLM Engineer Profile
 
-- 🤖 Building **LLM-based applications** using modern AI stacks  
-- 🔗 Designing **RAG (Retrieval-Augmented Generation) systems**
-- 🧩 Developing **AI Agents & Multi-Agent Systems**
-- 🧠 Advanced **Prompt Engineering & Prompt Optimization**
-- 🗂️ Working with **Vector Databases & Hybrid Search**
-- 🚀 Deploying AI systems using **Docker & scalable backends**
-- 📈 Observability & evaluation of LLMs using **Langfuse**
+-  Building **LLM-based applications** using modern AI stacks  
+-  Designing **RAG (Retrieval-Augmented Generation) systems**
+-  Developing **AI Agents & Multi-Agent Systems**
+-  Advanced **Prompt Engineering & Prompt Optimization**
+-  Working with **Vector Databases & Hybrid Search**
+-  Deploying AI systems using **Docker & scalable backends**
+-  Observability & evaluation of LLMs using **Langfuse**
 
-### 🧰 AI Engineering Stack
+###  AI Engineering Stack
 - **Frameworks:** LangChain, LangGraph  
 - **LLM Concepts:** RAG, Agents, Tools, Memory, Chains  
 - **Databases:** PostgreSQL, ChromaDB (Vector DB)  
@@ -28,51 +28,50 @@ to **LLM-powered applications** such as RAG systems and AI agents.
 
 ---
 
-## 🔍 What I'm Working On:
+##  What I'm Working On:
 - 🔭 Building AI/ML projects (classification, segmentation, prediction, etc.)
-- 🤖 Developing LLM-powered applications (RAG systems & AI agents)
-- 📊 Exploring data visualization and storytelling with real datasets
-- 🧠 Practicing deep learning: CNNs, RNNs, Transformers
-- 📝 Learning from research papers & Kaggle notebooks
+-  Developing LLM-powered applications (RAG systems & AI agents)
+-  Exploring data visualization and storytelling with real datasets
+-  Practicing deep learning: CNNs, RNNs, Transformers
+-  Learning from research papers & Kaggle notebooks
 
 ---
 
 ## 📫 Connect With Me:
-- ✉️ Email: mohamedelgebaly921@gmail.com  
-- 💼 LinkedIn: [Mohamed Tarek Mostafa](https://www.linkedin.com/in/mohamed-tarek-mostafa-936452221/)  
-- 📊 Kaggle: [@moohamedelgebaly](https://www.kaggle.com/moohamedelgebaly)  
-- 💬 Topics I enjoy: Machine Learning, Deep Learning, LLMs, RAG, AI Agents, Model Deployment  
-- 😄 Pronouns: He / Him  
+-  Email: mohamedelgebaly921@gmail.com  
+-  LinkedIn: [Mohamed Tarek Mostafa](https://www.linkedin.com/in/mohamed-tarek-mostafa-936452221/)  
+-  Kaggle: [@moohamedelgebaly](https://www.kaggle.com/moohamedelgebaly)  
+-  Topics I enjoy: Machine Learning, Deep Learning, LLMs, RAG, AI Agents, Model Deployment  
 
 ---
 
-## 🛠️ Languages & Libraries I Use:
+##  Languages & Libraries I Use:
 
-### 👨‍💻 Languages
+###  Languages
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)
 ![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&style=social)
 ![C++](https://img.shields.io/badge/-C++-black?logo=c%2b%2b&style=social)
 
-### 📊 Data Science Libraries
+###  Data Science Libraries
 ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&style=social)
 ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&style=social)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?logo=matplotlib&style=social)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-black?logo=seaborn&style=social)
 ![Plotly](https://img.shields.io/badge/-Plotly-black?logo=plotly&style=social)
 
-### 🤖 Machine Learning
+###  Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?logo=scikit-learn&style=social)
 ![XGBoost](https://img.shields.io/badge/-XGBoost-black?logo=xgboost&style=social)
 ![LightGBM](https://img.shields.io/badge/-LightGBM-black?logo=lightgbm&style=social)
 
-### 🧠 Deep Learning
+###  Deep Learning
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=social)
 ![Keras](https://img.shields.io/badge/-Keras-black?logo=keras&style=social)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch&style=social)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?logo=opencv&style=social)
 ![Transformers](https://img.shields.io/badge/-Transformers-black?logo=huggingface&style=social)
 
-### 🧰 Tools & AI Engineering
+###  Tools & AI Engineering
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=social)
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?logo=postgresql&style=social)
